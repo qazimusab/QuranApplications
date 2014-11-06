@@ -1,0 +1,3 @@
+include ':app', ':sixteenLiner', ':quran-lib-core', ':Test', ':library', ':LauncherActivity'
+include ':colorCodedQuran'
+include ':fifteenLineQuran'

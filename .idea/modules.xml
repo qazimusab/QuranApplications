@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArabQuran.iml" filepath="$PROJECT_DIR$/ArabQuran.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LauncherActivity/LauncherActivity.iml" filepath="$PROJECT_DIR$/LauncherActivity/LauncherActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorCodedQuran/colorCodedQuran.iml" filepath="$PROJECT_DIR$/colorCodedQuran/colorCodedQuran.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fifteenLineQuran/fifteenLineQuran.iml" filepath="$PROJECT_DIR$/fifteenLineQuran/fifteenLineQuran.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quran-lib-core/quran-lib-core.iml" filepath="$PROJECT_DIR$/quran-lib-core/quran-lib-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quranprojects.iml" filepath="$PROJECT_DIR$/quranprojects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sixteenLiner/sixteenLiner.iml" filepath="$PROJECT_DIR$/sixteenLiner/sixteenLiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trunk.iml" filepath="$PROJECT_DIR$/trunk.iml" />
+    </modules>
+  </component>
+</project>
+

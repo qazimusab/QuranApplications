@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="no_notes">No Bookmarks Yet</string>
+    <string name="menu_insert">Add Bookmark</string>
+    <string name="delete_all">Delete all Bookmarks</string>
+    <string name="menu_delete">Delete Bookmark</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="app_name">Quran Majeed</string>
+    <string name="one">﻿1 - الم</string>
+    <string name="two">2 - سيقول السفهاء</string>
+    <string name="three">3 - تلك الرسل</string>
+    <string name="four">4 - لن تنال البرّ</string>
+    <string name="five">5 - والمحصنات</string>
+    <string name="six">6 - لا يحب الله الجهر بالسوء</string>
+    <string name="seven">7 - و اذا سمعوا</string>
+    <string name="eight">8 - ولو اننا نزلنا</string>
+    <string name="nine">9 - قال الملأ</string>
+    <string name="ten">10 - واعلمو انما غنمتم</string>
+    <string name="eleven">11 - يعتذرون</string>
+    <string name="twelve">12 - وما من دابه</string>
+    <string name="thirteen">13 - وما ابرئ نفسي</string>
+    <string name="fourteen">14 - ربما</string>
+    <string name="fifteen">15 - سبحان الذي اسري</string>
+    <string name="sixteen">16 - قال الم اقل لك</string>
+    <string name="seventeen">17 - اقترب للناس حسابهم</string>
+    <string name="eighteen">18 - قد افلح المؤمنون</string>
+    <string name="nineteen">19 - وقال الذين لا يرجون لقائنا</string>
+    <string name="twenty">20 - أمّن خلق</string>
+    <string name="twentyone">21 - اُتل مآ اوحي</string>
+    <string name="twentytwo">22 - ومن يقنت</string>
+    <string name="twentythree">23 - وما لي</string>
+    <string name="twentyfour">24 - فمن اظلم </string>
+    <string name="twentyfive">25 - اليه يرد علم الساعه</string>
+    <string name="twentysix">26 - حم</string>
+    <string name="twentyseven">27 - قال فما خطبكم</string>
+    <string name="twentyeight">28 - قد سمع</string>
+    <string name="twentynine">29 - تبارك</string>
+    <string name="thirty">30 - عم</string>
+    <string name="a">1. The Opening Al Fatihah سورة الفاتحة</string>
+    <string name="b">2. The Cow Al Baqarah سورة البقرة</string>
+    <string name="c">3. The Family of Imran Al Imran سورة آل عمران</string>
+    <string name="d">4. The Women An Nisa" سورة النساء</string>
+    <string name="e">5. The Table Spread with Food Al Ma"idah سورة المائدة</string>
+    <string name="f">6. The Cattles Al Anam سورة الأنعام</string>
+    <string name="g">7. The Heights Al Araf سورة الأعراف</string>
+    <string name="h">8. The Spoils of War Al Anfal سورة الأنفال</string>
+    <string name="i">9. The Repentance At Tawbah سورة التوبة</string>
+    <string name="j">10. Jonah Yunus سورة يونس</string>
+    <string name="k">11. Hud Hud سورة هود</string>
+    <string name="l">12. Joseph Yusuf سورة يوسف</string>
+    <string name="m">13. The Thunder Ar Rad سورة الرّعد</string>
+    <string name="n">14. Abraham Ibrahim سورة إبراهيم</string>
+    <string name="o">15. The Rocky Tract Al Hijr سورة الحجر</string>
+    <string name="p">16. The Bees An Nahl سورة النحل</string>
+    <string name="q">17. The Journey by Night Al Isra سورة الإسراء</string>
+    <string name="r">18. The Cave Al Kahf سورة الكهف</string>
+    <string name="s">19. Mary Maryam سورة مريم</string>
+    <string name="t">20. Ta Ha Ta Ha سورة طه</string>
+    <string name="u">21. The Prophets Al Anbiya" سورة الأنبياء</string>
+    <string name="v">22. The Pilgrimage Al Hajj سورة الحج</string>
+    <string name="w">23. The Believers Al Mu"minun سورة المؤمنون</string>
+    <string name="x">24. The Light An Nur سورة النّور</string>
+    <string name="y">25. The Criterion Al Furqan سورة الفرقان</string>
+    <string name="z">26. The Poets Ash Shuara" سورة الشعراء</string>
+    <string name="aa">27. The Ants An Naml سورة النمل</string>
+    <string name="ab">28. The Narration Al Qasas سورة القصص</string>
+    <string name="ac">29. The Spider Al Ankabut سورة العنكبوت</string>
+    <string name="ad">30. Rome Ar Rum سورة الروم</string>
+    <string name="ae">31. Luqman Luqman سورة لقمان</string>
+    <string name="af">32. The Prostration As Sajdah سورة السجدة</string>
+    <string name="ag">33. The Confederates Al Ahzab سورة الأحزاب</string>
+    <string name="ah">34. Sheba Saba" سورة سبإ</string>
+    <string name="ai">35. The Originator of Creation Fatir سورة فاطر</string>
+    <string name="aj">36. Ya Sin Ya Sin سورة يس</string>
+    <string name="ak">37. Those Ranged in Ranks As Saffat سورة الصّافّات</string>
+    <string name="al">38. Sad Sad سورة ص</string>
+    <string name="am">39. The Groups Az Zumar سورة الزمر</string>
+    <string name="an">40. The Forgiver Ghafir سورة غافر</string>
+    <string name="ao">41. They are Explained in Detail Fussilat سورة فصّلت</string>
+    <string name="ap">42. The Consultations Ash-Shura سورة الشورى</string>
+    <string name="aq">43. The Gold Adornments Az Zukhruf سورة الزخرف</string>
+    <string name="ar">44. The Smoke Ad Dukhan سورة الدخان</string>
+    <string name="as">45. The Kneeling Al Jathiyah سورة الجاثية</string>
+    <string name="at">46. The Curved Sand-Hills Al Ahqaf سورة الأحقاف</string>
+    <string name="au">47. Muhammad  Muhammad سورة محمّـد</string>
+    <string name="av">48. The Victory Al Fath سورة الفتح</string>
+    <string name="aw">49. The Dwellings Al Hujurat سورة الحُـجُـرات</string>
+    <string name="ax">50. Qaf Qaf سورة ق</string>
+    <string name="ay">51. The Winds that Scatter Adh Dhariyat سورة الذاريات</string>
+    <string name="az">52. The Mount At Tur سورة الـطور</string>
+    <string name="ba">53. The Star An Najm سورة النجم</string>
+    <string name="bb">54. The Moon Al Qamar سورة الـقمـر</string>
+    <string name="bc">55. The Most Gracious Ar Rahman سورة الـرحـمـن</string>
+    <string name="bd">56. The Event Al Waqiah سورة الواقيـة</string>
+    <string name="be">57. The Iron Al Hadid سورة الحـديد</string>
+    <string name="bf">58. The Woman Who Disputes Al Mujadilah سورة الـمجادلـة</string>
+    <string name="bg">59. The Gathering Al Hashr سورة الـحـشـر</string>
+    <string name="bh">60. The Woman to be examined Al Mumtahanah سورة الـمـمـتـحنة</string>
+    <string name="bi">61. The Row or Rank As Saff سورة الـصّـف</string>
+    <string name="bj">62. Friday Al Jumuah سورة الـجـمـعـة</string>
+    <string name="bk">63. The Hypocrites Al Munafiqun سورة الـمنافقون</string>
+    <string name="bl">64. Mutual Loss and Gain At Taghabun سورة الـتغابن</string>
+    <string name="bm">65. The Divorce At Talaq سورة الـطلاق</string>
+    <string name="bn">66. The Prohibition At Tahrim سورة الـتحريم</string>
+    <string name="bo">67. Dominion Al Mulk سورة الـملك</string>
+    <string name="bp">68. The Pen Al Qalam سورة الـقـلـم</string>
+    <string name="bq">69. The Inevitable Al Haqqah سورة الـحاقّـة</string>
+    <string name="br">70. The Ways of Ascent Al Maarij سورة الـمعارج</string>
+    <string name="bs">71. Noah Nuh سورة نوح</string>
+    <string name="bt">72. The Jinn Al Jinn سورة الجن</string>
+    <string name="bu">73. The One Wraped in Garments Al Muzzammil سورة الـمـزّمّـل</string>
+    <string name="bv">74. The One Enveloped Al Muddaththir سورة الـمّـدّثّـر</string>
+    <string name="bw">75. The Resurrection Al Qiyamah سورة الـقـيامـة</string>
+    <string name="bx">76. Man or Time Al Insan or Ad Dahar سورة الإنسان</string>
+    <string name="by">77. Those sent forth Al Mursalat سورة الـمرسلات</string>
+    <string name="bz">78. The Great News An Naba" سورة الـنبإ</string>
+    <string name="ca">79. Those Who Pull Out An Naziat سورة الـنازعات</string>
+    <string name="cb">80. He Frowned Abasa سورة عبس</string>
+    <string name="cc">81. Wound Round and Lost its Light At-Takwir سورة التكوير</string>
+    <string name="cd">82. The Cleaving Al Infitar سورة الانفطار</string>
+    <string name="ce">83. Those Who Deal in Fraud Al Mutaffifin سورة المطـفـفين</string>
+    <string name="cf">84. The Splitting Asunder Al Inshiqaq سورة الانشقاق</string>
+    <string name="cg">85. The Big Stars Al Buruj سورة البروج</string>
+    <string name="ch">86. The Night Commer At Tariq سورة الـطارق</string>
+    <string name="ci">87. The Most High Al Ala سورة الأعـلى</string>
+    <string name="cj">88. The Overwhelming Al Ghashiyah سورة الغاشـيـة</string>
+    <string name="ck">89. The Break of Day Al Fajr سورة الفجر</string>
+    <string name="cl">90. The City Al Balad سورة الـبلد</string>
+    <string name="cm">91. The Sun Ash-Shams سورة الـشـمـس</string>
+    <string name="cn">92. The Night Al Layl سورة اللـيـل</string>
+    <string name="co">93. The Forenoon Ad Duha سورة الضـحى</string>
+    <string name="cp">94. The Opening Forth Ash Sharh سورة الـشرح</string>
+    <string name="cq">95. The Fig At Tin سورة الـتين</string>
+    <string name="cr">96. The Clot Al Alaq سورة الـعلق</string>
+    <string name="cs">97. The Night of Decree Al Qadr سورة الـقدر</string>
+    <string name="ct">98. The Clear Evidence Al Bayyinah سورة الـبينة</string>
+    <string name="cu">99. The Earthquake Az-Zalzalah سورة الـزلزلة</string>
+    <string name="cv">100. Those That Run Al Adiyat سورة الـعاديات</string>
+    <string name="cw">101. The Striking Hour Al Qariah سورة الـقارعـة</string>
+    <string name="cx">102. The Piling Up At Takathur سورة الـتكاثر</string>
+    <string name="cy">103. The Time  Al Asr سورة الـعصر</string>
+    <string name="cz">104. The Slanderer Al Humazah سورة الـهمزة</string>
+    <string name="da">105. The Elephant Al Fil سورة الـفيل</string>
+    <string name="db">106. Quraysh Quraysh سورة قريش</string>
+    <string name="dc">107. The Small Kindness Al Maun سورة المـاعون</string>
+    <string name="dd">108. The River in Paradise Al Kawthar سورة الـكوثر</string>
+    <string name="de">109. The Disbelievers Al Kafirun سورة الـكافرون</string>
+    <string name="df">110. The Help An Nasr سورة الـنصر</string>
+    <string name="dg">111. The Palm Fibre Al Masad سورة الـمسد</string>
+    <string name="dh">112. The Purity Al Ikhlas سورة الإخلاص</string>
+    <string name="di">113. The Daybreak Al Falaq سورة الـفلق</string>
+    <string name="dj">114. Mankind An Nas سورة الـناس</string>
+
+    <string-array name="surah">
+        <item>@string/a</item>
+        <item>@string/b</item>
+        <item>@string/c</item>
+        <item>@string/d</item>
+        <item>@string/e</item>
+        <item>@string/f</item>
+        <item>@string/g</item>
+        <item>@string/h</item>
+        <item>@string/i</item>
+        <item>@string/j</item>
+        <item>@string/k</item>
+        <item>@string/l</item>
+        <item>@string/m</item>
+        <item>@string/n</item>
+        <item>@string/o</item>
+        <item>@string/p</item>
+        <item>@string/q</item>
+        <item>@string/r</item>
+        <item>@string/s</item>
+        <item>@string/t</item>
+        <item>@string/u</item>
+        <item>@string/v</item>
+        <item>@string/w</item>
+        <item>@string/x</item>
+        <item>@string/y</item>
+        <item>@string/z</item>
+        <item>@string/aa</item>
+        <item>@string/ab</item>
+        <item>@string/ac</item>
+        <item>@string/ad</item>
+        <item>@string/ae</item>
+        <item>@string/af</item>
+        <item>@string/ag</item>
+        <item>@string/ah</item>
+        <item>@string/ai</item>
+        <item>@string/aj</item>
+        <item>@string/ak</item>
+        <item>@string/al</item>
+        <item>@string/am</item>
+        <item>@string/an</item>
+        <item>@string/ao</item>
+        <item>@string/ap</item>
+        <item>@string/aq</item>
+        <item>@string/ar</item>
+        <item>@string/as</item>
+        <item>@string/at</item>
+        <item>@string/au</item>
+        <item>@string/av</item>
+        <item>@string/aw</item>
+        <item>@string/ax</item>
+        <item>@string/ay</item>
+        <item>@string/az</item>
+        <item>@string/ba</item>
+        <item>@string/bb</item>
+        <item>@string/bc</item>
+        <item>@string/bd</item>
+        <item>@string/be</item>
+        <item>@string/bf</item>
+        <item>@string/bg</item>
+        <item>@string/bh</item>
+        <item>@string/bi</item>
+        <item>@string/bj</item>
+        <item>@string/bk</item>
+        <item>@string/bl</item>
+        <item>@string/bm</item>
+        <item>@string/bn</item>
+        <item>@string/bo</item>
+        <item>@string/bp</item>
+        <item>@string/bq</item>
+        <item>@string/br</item>
+        <item>@string/bs</item>
+        <item>@string/bt</item>
+        <item>@string/bu</item>
+        <item>@string/bv</item>
+        <item>@string/bw</item>
+        <item>@string/bx</item>
+        <item>@string/by</item>
+        <item>@string/bz</item>
+        <item>@string/ca</item>
+        <item>@string/cb</item>
+        <item>@string/cc</item>
+        <item>@string/cd</item>
+        <item>@string/ce</item>
+        <item>@string/cf</item>
+        <item>@string/cg</item>
+        <item>@string/ch</item>
+        <item>@string/ci</item>
+        <item>@string/cj</item>
+        <item>@string/ck</item>
+        <item>@string/cl</item>
+        <item>@string/cm</item>
+        <item>@string/cn</item>
+        <item>@string/co</item>
+        <item>@string/cp</item>
+        <item>@string/cq</item>
+        <item>@string/cr</item>
+        <item>@string/cs</item>
+        <item>@string/ct</item>
+        <item>@string/cu</item>
+        <item>@string/cv</item>
+        <item>@string/cw</item>
+        <item>@string/cx</item>
+        <item>@string/cy</item>
+        <item>@string/cz</item>
+        <item>@string/da</item>
+        <item>@string/db</item>
+        <item>@string/dc</item>
+        <item>@string/dd</item>
+        <item>@string/de</item>
+        <item>@string/df</item>
+        <item>@string/dg</item>
+        <item>@string/dh</item>
+        <item>@string/di</item>
+        <item>@string/dj</item>
+    </string-array>
+    <string-array name="juz">
+        <item>@string/one</item>
+        <item>@string/two</item>
+        <item>@string/three</item>
+        <item>@string/four</item>
+        <item>@string/five</item>
+        <item>@string/six</item>
+        <item>@string/seven</item>
+        <item>@string/eight</item>
+        <item>@string/nine</item>
+        <item>@string/ten</item>
+        <item>@string/eleven</item>
+        <item>@string/twelve</item>
+        <item>@string/thirteen</item>
+        <item>@string/fourteen</item>
+        <item>@string/fifteen</item>
+        <item>@string/sixteen</item>
+        <item>@string/seventeen</item>
+        <item>@string/eighteen</item>
+        <item>@string/nineteen</item>
+        <item>@string/twenty</item>
+        <item>@string/twentyone</item>
+        <item>@string/twentytwo</item>
+        <item>@string/twentythree</item>
+        <item>@string/twentyfour</item>
+        <item>@string/twentyfive</item>
+        <item>@string/twentysix</item>
+        <item>@string/twentyseven</item>
+        <item>@string/twentyeight</item>
+        <item>@string/twentynine</item>
+        <item>@string/thirty</item>
+    </string-array>
+
+    <string name="title_activity_download">DownloadActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\pre-dexed\debug\classes-759081bdf1e6738044da896dfc9878a81f4c843e.jar"
+        jar="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-90c60ad28c82e91bc9d80a58f93b51c998af319e.jar"
+        jar="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\pre-dexed\debug\java-mail-1.4.4-61ee31839677805b083466337579972db613228f.jar"
+        jar="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\libs\java-mail-1.4.4.jar\java-mail-1.4.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="29db85cb07136bc758cf6ea3bc5e5d04812e314f"/>
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-cc8b59c7ff711ebf5551f97147fa8695a40dc839.jar"
+        jar="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813"/>
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\app\build\intermediates\pre-dexed\debug\otto-1.3.5-ef64cafc7d5f5d9d80bbbeffe8ca7d6bcba6e180.jar"
+        jar="C:\Users\Musab\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.5\7941cd2c2c8ec006800d75c35f8a9dacf892ab93\otto-1.3.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93"/>
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\app\build\intermediates\pre-dexed\debug\crashlytics-1.1.13-71b3da18355e8798564549fa88a31cf27f6e2e75.jar"
+        jar="C:\Users\Musab\.gradle\caches\modules-2\files-2.1\com.crashlytics.android\crashlytics\1.1.13\e821eafa1bf489a26bdb71f95078c26785b37a1\crashlytics-1.1.13.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0e821eafa1bf489a26bdb71f95078c26785b37a1"/>
+    <item
+        dex="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\pre-dexed\debug\classes-cce60b78626c924e87fea52138f1084ce8ceb635.jar"
+        jar="C:\Users\Musab\Documents\quranprojects\svn\quranprojects\LauncherActivity\build\intermediates\exploded-aar\quranprojects\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="00f3b5867cf0c9b8b2e9282d9280e460ae891552"/>
+
+</pre-dex-items>

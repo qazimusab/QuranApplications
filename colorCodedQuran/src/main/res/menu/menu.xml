@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1" android:title="Go To Page"></item>
+    <item android:id="@+id/item2" android:title="Go To Juz (Parah)"></item>
+    <item android:id="@+id/item3" android:title="Go To Surah"></item>
+    <item android:id="@+id/item4" android:title="Zoom" android:icon="@drawable/zoom" android:showAsAction="always" android:orderInCategory="3"></item>
+    <item android:id="@+id/item5" android:title="Bookmark this page" android:icon="@drawable/book" android:showAsAction="always" android:orderInCategory="1"></item>
+    <item android:id="@+id/item6" android:title="My Bookmarks"></item>
+    <item android:id="@+id/item7" android:title="More Apps"></item>
+    <item android:id="@+id/item8" android:title="Rate Us!"></item>
+    <item android:id="@+id/item9" android:title="Weekly Link"></item>
+    <item android:id="@+id/item10" android:title="Next Page" android:icon="@drawable/back" android:showAsAction="always" android:orderInCategory="2"></item>
+    <item android:id="@+id/item11" android:title="Previous Page" android:icon="@drawable/next" android:showAsAction="always" android:orderInCategory="4"></item>
+    <item android:id="@+id/item12" android:title="Contribute"  ></item>
+
+</menu>
