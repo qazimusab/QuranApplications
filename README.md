@@ -1,2 +1,2 @@
 # QuranApplications
-Very old and horrible code I wrote in my first year of college.
+Very old and messy code I wrote in my first year of college.
